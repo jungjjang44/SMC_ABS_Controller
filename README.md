@@ -1,4 +1,4 @@
-# Sliding Mode 기반 ABS 제어기 (Electric 4WD Vehicle)
+# Sliding Mode 기반 ABS 제어기 (Electric 4WD Vehicle) - 작업 중
 
 전기차(4륜 독립 구동)를 대상으로 슬라이딩 모드 제어(SMC)를 활용한 ABS(Antilock Brake System)를 구현한 내용임. 휠 슬립 값이나 노면 마찰계수를 사용하지 않으며, 타이어 힘 변화의 방향성과 휠 감속 패턴만으로 제어함.
 
